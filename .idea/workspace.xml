@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05a03c85-6e59-43cb-bbd7-6049d3b1a746" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ysc/db/XFBDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ysc/db/XFBDatabase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731506215701</updated>
       <workItem from="1731506216879" duration="197000" />
-      <workItem from="1774927803945" duration="231000" />
+      <workItem from="1774927803945" duration="276000" />
     </task>
     <servers />
   </component>

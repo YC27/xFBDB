@@ -69,6 +69,10 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Timecho",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "google-java-format.settings",
     "vue.rearranger.settings.migration": "true"
@@ -91,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731506215701</updated>
       <workItem from="1731506216879" duration="197000" />
-      <workItem from="1774927803945" duration="276000" />
+      <workItem from="1774927803945" duration="358000" />
     </task>
     <servers />
   </component>

@@ -20,4 +20,7 @@
 package com.ysc.db;
 
 public class XFBDatabase {
+  public static void main(String[] args) {
+    System.out.println("Hello, XFBDatabase!");
+  }
 }
